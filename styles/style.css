@@ -308,7 +308,7 @@ ol {
 
 .content__video-card-description-container {
   /* display: flex;
-  flex-direction: column; */
+  flex-direction: colgitumn; */
   align-items: flex-start;  
   flex-grow: 1;
   max-width: 196px;
