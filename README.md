@@ -1,1 +1,1 @@
-git@github.com:Dmitriy-Panchenko/posmotri-v-okno-fd.git
+https://github.com/Dmitriy-Panchenko/posmotri-v-okno-fd
