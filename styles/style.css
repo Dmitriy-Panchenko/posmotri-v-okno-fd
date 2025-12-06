@@ -70,7 +70,7 @@ ol {
   width: 100%; /*вместо marigin: 0 30px и width: 1140px*/
   gap: 30px;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   inline-size: 100%;
 }
 
@@ -342,5 +342,5 @@ ol {
   display: flex;
   flex-direction: column;
   width: 100%;
-  margin-bottom: 80px;
+  /* margin-bottom: 80px; */
 }
